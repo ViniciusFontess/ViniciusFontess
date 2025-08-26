@@ -1,5 +1,3 @@
-
-
 # 👋 Olá, sou Vinicius Fontes de Andrade
 
 🎓 Estudante de Engenharia da Computação na UFMS  
@@ -12,9 +10,23 @@ Sou um entusiasta da tecnologia, atualmente cursando Engenharia da Computação 
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens de Programação**: Python, C, C++
+- **Linguagens de Programação**: Python, C, C++, JavaScript, HTML/CSS
+- **Frameworks & Bibliotecas**: React, Next.js
 - **Sistemas Operacionais**: Linux, Windows
-- **Ferramentas**: Git, GitHub
+- **Ferramentas**: Git, GitHub, Vercel
+- **Desenvolvimento Web**: Frontend e Backend
+
+## 🌐 Projetos em Destaque
+
+### [Meu Portfólio](https://viniciusfandrade.vercel.app/)
+- Website pessoal apresentando meus projetos e habilidades
+- Desenvolvido com React e Next.js
+- Design responsivo e moderno
+
+### [MC Água Aragua](https://mcaguaaragua.vercel.app/)
+- Website institucional para empresa de abastecimento de água
+- Interface intuitiva e informativa
+- Projeto frontend com foco na experiência do usuário
 
 ## 📂 Repositórios em Destaque
 
@@ -26,9 +38,10 @@ Sou um entusiasta da tecnologia, atualmente cursando Engenharia da Computação 
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/vinícius-fontes)
+- [LinkedIn](https://www.linkedin.com/in/vinícius-fontes-2a2b29234)
 - [Instagram](https://www.instagram.com/vinifnts)
+- [Portfólio](https://viniciusfandrade.vercel.app/)
 
 ---
 
-Sinta-se à vontade para personalizar este `README.md` conforme suas preferências e adicionar mais informações que considere relevantes. Se precisar de ajuda adicional ou quiser incluir mais detalhes, estou à disposição para auxiliar! 
+Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato.
