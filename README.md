@@ -1,14 +1,14 @@
-# 👋 Olá, sou Vinicius Fontes de Andrade
+# Vinicius Fontes de Andrade
 
-🎓 Estudante de Engenharia da Computação na UFMS  
-💻 Apaixonado por tecnologia, programação e resolução de problemas  
-🚀 Em busca constante de aprendizado e desenvolvimento de novas habilidades
+ Estudante de Engenharia da Computação na UFMS  
+ Apaixonado por tecnologia, programação e resolução de problemas  
+ Em busca constante de aprendizado e desenvolvimento de novas habilidades
 
-## 🧠 Sobre Mim
+##  Sobre Mim
 
 Sou um entusiasta da tecnologia, atualmente cursando Engenharia da Computação na Universidade Federal de Mato Grosso do Sul (UFMS). Tenho interesse em diversas áreas da computação e estou sempre procurando expandir meus conhecimentos através de projetos práticos e estudos contínuos.
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 - **Linguagens de Programação**: Python, C, C++, JavaScript, HTML/CSS
 - **Frameworks & Bibliotecas**: React, Next.js
@@ -16,7 +16,7 @@ Sou um entusiasta da tecnologia, atualmente cursando Engenharia da Computação 
 - **Ferramentas**: Git, GitHub, Vercel
 - **Desenvolvimento Web**: Frontend e Backend
 
-## 🌐 Projetos em Destaque
+##  Projetos em Destaque
 
 ### [Meu Portfólio](https://viniciusfandrade.vercel.app/)
 - Website pessoal apresentando meus projetos e habilidades
@@ -28,7 +28,7 @@ Sou um entusiasta da tecnologia, atualmente cursando Engenharia da Computação 
 - Interface intuitiva e informativa
 - Projeto frontend com foco na experiência do usuário
 
-## 📂 Repositórios em Destaque
+## Repositórios em Destaque
 
 - [python](https://github.com/ViniciusFontess/python): Scripts e exercícios diversos em Python, abordando desde estruturas condicionais até vetores e treinamento para a OBI.
 - [C](https://github.com/ViniciusFontess/C): Projetos e exercícios desenvolvidos na linguagem C++.
@@ -36,7 +36,7 @@ Sou um entusiasta da tecnologia, atualmente cursando Engenharia da Computação 
 - [EstruturadeDadoseAlgoritmos](https://github.com/ViniciusFontess/EstruturadeDadoseAlgoritmos): Implementações de estruturas de dados e algoritmos em Python.
 - [TASK_ESTAGIO](https://github.com/ViniciusFontess/TASK_ESTAGIO): Projeto desenvolvido em HTML como parte de uma tarefa de estágio.
 
-## 📫 Contato
+## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/vinícius-fontes-2a2b29234)
 - [Instagram](https://www.instagram.com/vinifnts)
