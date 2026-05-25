@@ -1,6 +1,6 @@
 # Vinícius Fontes de Andrade
 
-Computer Engineering student at UFMS · Junior Developer at ACTO · Freelancer @ vfdev
+Computer Engineering student at UFMS · Junior Developer at ACTO · Freelancer @viniciusdev1
 
 ---
 
