@@ -1,47 +1,63 @@
-# Vinicius Fontes de Andrade
+# Vinícius Fontes de Andrade
 
- Estudante de Engenharia da Computação na UFMS  
- Apaixonado por tecnologia, programação e resolução de problemas  
- Em busca constante de aprendizado e desenvolvimento de novas habilidades
-
-##  Sobre Mim
-
-Sou um entusiasta da tecnologia, atualmente cursando Engenharia da Computação na Universidade Federal de Mato Grosso do Sul (UFMS). Tenho interesse em diversas áreas da computação e estou sempre procurando expandir meus conhecimentos através de projetos práticos e estudos contínuos.
-
-## Tecnologias e Ferramentas
-
-- **Linguagens de Programação**: Python, C, C++, JavaScript, HTML/CSS
-- **Frameworks & Bibliotecas**: React, Next.js
-- **Sistemas Operacionais**: Linux, Windows
-- **Ferramentas**: Git, GitHub, Vercel
-- **Desenvolvimento Web**: Frontend e Backend
-
-##  Projetos em Destaque
-
-### [Meu Portfólio](https://viniciusfandrade.vercel.app/)
-- Website pessoal apresentando meus projetos e habilidades
-- Desenvolvido com React e Next.js
-- Design responsivo e moderno
-
-### [MC Água Aragua](https://mcaguaaragua.vercel.app/)
-- Website institucional para empresa de abastecimento de água
-- Interface intuitiva e informativa
-- Projeto frontend com foco na experiência do usuário
-
-## Repositórios em Destaque
-
-- [python](https://github.com/ViniciusFontess/python): Scripts e exercícios diversos em Python, abordando desde estruturas condicionais até vetores e treinamento para a OBI.
-- [C](https://github.com/ViniciusFontess/C): Projetos e exercícios desenvolvidos na linguagem C++.
-- [curso_completo_python](https://github.com/ViniciusFontess/curso_completo_python): Repositório contendo materiais e exercícios de um curso completo de Python.
-- [EstruturadeDadoseAlgoritmos](https://github.com/ViniciusFontess/EstruturadeDadoseAlgoritmos): Implementações de estruturas de dados e algoritmos em Python.
-- [TASK_ESTAGIO](https://github.com/ViniciusFontess/TASK_ESTAGIO): Projeto desenvolvido em HTML como parte de uma tarefa de estágio.
-
-## Contato
-
-- [LinkedIn](https://www.linkedin.com/in/vinícius-fontes-2a2b29234)
-- [Instagram](https://www.instagram.com/vinifnts)
-- [Portfólio](https://viniciusfandrade.vercel.app/)
+Computer Engineering student at UFMS · Junior Developer at ACTO · Freelancer @ vfdev
 
 ---
 
-Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato.
+## About
+
+I build web systems, data pipelines, and automation tools — with production experience
+delivering solutions for clients like SEBRAE, FIEMS, and IEL.
+
+Currently working at ACTO, conducting research at UFMS High-Performance Computing Lab,
+and contributing to CNPq-funded projects in digital health and machine learning.
+
+---
+
+## Tech Stack
+
+**Languages:** Python · SQL · TypeScript · JavaScript · C/C++  
+**Web:** React · Next.js · Vite · Tailwind CSS · FastAPI · Flask  
+**Data:** Pandas · NumPy · ETL · EDA · Feature Engineering  
+**Databases:** PostgreSQL · MySQL  
+**Tools:** Docker · Git · Linux · Vercel  
+**ML:** Classification · Regression · Predictive Modeling  
+
+---
+
+## Featured Projects
+
+### [Espelho Ponto — SEBRAE](https://github.com/ViniciusFontess)
+Python pipeline (PyMuPDF + FastAPI) that automates extraction and validation of employee
+timesheet data from monthly PDFs. Built at ACTO for SEBRAE.
+
+### [Water Quality Monitoring Platform](https://github.com/ViniciusFontess)
+End-to-end ETL pipeline with real-time dashboards and cloud deployment.
+IoT data ingestion via APIs into relational databases.
+
+### [vfdev — Freelance Portfolio](https://planosviniciusdev1.vercel.app)
+Professional landing page for Web Dev & Automation services.  
+Stack: React · Vite · TypeScript · Tailwind CSS · Framer Motion · shadcn/ui
+
+### [IDEIIA Institutional Website](https://github.com/ViniciusFontess)
+Built with Next.js, TypeScript, and Tailwind CSS for a Data Analytics, AI & RPA company
+serving FIEMS, IEL, and SEFAZ/ES.
+
+---
+
+## Research & Academic Work
+
+- **IoT Data Pipeline — UFMS Lab:** Real-time sensor ingestion, REST APIs, SQL storage,
+  monitoring dashboards
+- **Predictive Risk Model — CNPq (PET Digital Health):** EDA, feature engineering,
+  and classification model on real healthcare datasets
+- **Ensemble Learning Research:** Statistical benchmarking of classification algorithms
+  on accuracy, scalability, and performance metrics
+
+---
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/vinícius-fontes) ·
+[Portfolio](https://viniciusfandrade.vercel.app) ·
+vinicius.fontes@ufms.br
