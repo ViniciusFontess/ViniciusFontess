@@ -27,19 +27,19 @@ and contributing to CNPq-funded projects in digital health and machine learning.
 
 ## Featured Projects
 
-### [Espelho Ponto — SEBRAE](https://github.com/ViniciusFontess)
+### [Espelho Ponto — SEBRAE]
 Python pipeline (PyMuPDF + FastAPI) that automates extraction and validation of employee
 timesheet data from monthly PDFs. Built at ACTO for SEBRAE.
 
-### [Water Quality Monitoring Platform](https://github.com/ViniciusFontess)
+### [Water Quality Monitoring Platform]
 End-to-end ETL pipeline with real-time dashboards and cloud deployment.
 IoT data ingestion via APIs into relational databases.
 
-### [vfdev — Freelance Portfolio](https://planosviniciusdev1.vercel.app)
+### [vfdev — Freelance Portfolio]
 Professional landing page for Web Dev & Automation services.  
 Stack: React · Vite · TypeScript · Tailwind CSS · Framer Motion · shadcn/ui
 
-### [IDEIIA Institutional Website](https://github.com/ViniciusFontess)
+### [IDEIIA Institutional Website]
 Built with Next.js, TypeScript, and Tailwind CSS for a Data Analytics, AI & RPA company
 serving FIEMS, IEL, and SEFAZ/ES.
 
@@ -59,5 +59,5 @@ serving FIEMS, IEL, and SEFAZ/ES.
 ## Contact
 
 [LinkedIn](https://linkedin.com/in/vinícius-fontes) ·
-[Portfolio](https://viniciusfandrade.vercel.app) ·
+[Portfolio](https://viniciusdev1.com/) ·
 vinicius.fontes@ufms.br
