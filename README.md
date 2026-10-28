@@ -6,7 +6,7 @@ Computer Engineering student at UFMS · Developer at ACTO · Freelancer @viniciu
 
 ## About
 
-I build web systems, data pipelines, and automation tools — with production experience
+I build web systems, data pipelines, and automation tools with production experience
 delivering solutions for clients like SEBRAE, FIEMS, and IEL.
 
 Currently working at ACTO, conducting research at UFMS High-Performance Computing Lab,
